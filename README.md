@@ -7,9 +7,6 @@
 </p>
 <p align="center">
  
-### Menu
- <img src="https://github.com/Aldi098/Decompile/blob/main/Screenshot_20211217_105123.jpg" width="440" title="Menu" alt="Menu">
-</p>
 
 # Usage
 ```
